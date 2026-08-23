@@ -1,0 +1,185 @@
+{
+    "q1_top_cities": [
+        {
+            "iteration": 1,
+            "status": "connection_lost",
+            "start_timestamp_utc": "2026-08-13 11:37:24",
+            "error_msg": "127.0.0.1:27018: timed out (configured timeouts: socketTimeoutMS: 3600000.0ms, connectTimeoutMS: 3600000.0ms)"
+        }
+    ],
+    "q2_avg_order_city": [
+        {
+            "iteration": 1,
+            "status": "success",
+            "start_timestamp_utc": "2026-08-13 12:37:24",
+            "end_timestamp_utc": "2026-08-13 13:32:39",
+            "latency_seconds": 3314.6677,
+            "spilled_to_disk": false,
+            "sys_ram_usage_percent": 2.5,
+            "disk_read_mb": 0.0,
+            "disk_write_mb": 10.05
+        },
+        {
+            "iteration": 2,
+            "status": "success",
+            "start_timestamp_utc": "2026-08-13 13:32:39",
+            "end_timestamp_utc": "2026-08-13 14:28:17",
+            "latency_seconds": 3337.8917,
+            "spilled_to_disk": false,
+            "sys_ram_usage_percent": 2.4,
+            "disk_read_mb": 0.0,
+            "disk_write_mb": 9.55
+        },
+        {
+            "iteration": 3,
+            "status": "success",
+            "start_timestamp_utc": "2026-08-13 14:28:17",
+            "end_timestamp_utc": "2026-08-13 15:21:53",
+            "latency_seconds": 3216.0666,
+            "spilled_to_disk": false,
+            "sys_ram_usage_percent": 2.4,
+            "disk_read_mb": 0.0,
+            "disk_write_mb": 10.47
+        }
+    ],
+    "q3_customer_spend_stats": [
+        {
+            "iteration": 1,
+            "status": "success",
+            "start_timestamp_utc": "2026-08-13 15:21:53",
+            "end_timestamp_utc": "2026-08-13 15:25:49",
+            "latency_seconds": 236.3744,
+            "spilled_to_disk": true,
+            "sys_ram_usage_percent": 3.0,
+            "disk_read_mb": 0.0,
+            "disk_write_mb": 0.44
+        },
+        {
+            "iteration": 2,
+            "status": "success",
+            "start_timestamp_utc": "2026-08-13 15:25:49",
+            "end_timestamp_utc": "2026-08-13 15:29:32",
+            "latency_seconds": 222.6706,
+            "spilled_to_disk": true,
+            "sys_ram_usage_percent": 2.9,
+            "disk_read_mb": 0.0,
+            "disk_write_mb": 0.57
+        },
+        {
+            "iteration": 3,
+            "status": "success",
+            "start_timestamp_utc": "2026-08-13 15:29:32",
+            "end_timestamp_utc": "2026-08-13 15:33:11",
+            "latency_seconds": 219.2392,
+            "spilled_to_disk": true,
+            "sys_ram_usage_percent": 2.8,
+            "disk_read_mb": 0.0,
+            "disk_write_mb": 0.97
+        }
+    ],
+    "q4_category_revenue": [
+        {
+            "iteration": 1,
+            "status": "success",
+            "start_timestamp_utc": "2026-08-13 15:33:11",
+            "end_timestamp_utc": "2026-08-13 16:13:51",
+            "latency_seconds": 2439.8207,
+            "spilled_to_disk": false,
+            "sys_ram_usage_percent": 2.7,
+            "disk_read_mb": 0.0,
+            "disk_write_mb": 6.71
+        },
+        {
+            "iteration": 2,
+            "status": "success",
+            "start_timestamp_utc": "2026-08-13 16:13:51",
+            "end_timestamp_utc": "2026-08-13 16:55:30",
+            "latency_seconds": 2498.857,
+            "spilled_to_disk": false,
+            "sys_ram_usage_percent": 2.8,
+            "disk_read_mb": 0.0,
+            "disk_write_mb": 6.61
+        },
+        {
+            "iteration": 3,
+            "status": "success",
+            "start_timestamp_utc": "2026-08-13 16:55:30",
+            "end_timestamp_utc": "2026-08-13 17:37:45",
+            "latency_seconds": 2535.5197,
+            "spilled_to_disk": false,
+            "sys_ram_usage_percent": 2.7,
+            "disk_read_mb": 0.0,
+            "disk_write_mb": 7.62
+        }
+    ],
+    "q5_top_customers": [
+        {
+            "iteration": 1,
+            "status": "success",
+            "start_timestamp_utc": "2026-08-13 17:37:45",
+            "end_timestamp_utc": "2026-08-13 17:40:42",
+            "latency_seconds": 176.5896,
+            "spilled_to_disk": true,
+            "sys_ram_usage_percent": 2.7,
+            "disk_read_mb": 0.0,
+            "disk_write_mb": 0.4
+        },
+        {
+            "iteration": 2,
+            "status": "success",
+            "start_timestamp_utc": "2026-08-13 17:40:42",
+            "end_timestamp_utc": "2026-08-13 17:43:34",
+            "latency_seconds": 171.4585,
+            "spilled_to_disk": true,
+            "sys_ram_usage_percent": 2.7,
+            "disk_read_mb": 0.0,
+            "disk_write_mb": 0.45
+        },
+        {
+            "iteration": 3,
+            "status": "success",
+            "start_timestamp_utc": "2026-08-13 17:43:34",
+            "end_timestamp_utc": "2026-08-13 17:46:36",
+            "latency_seconds": 182.9156,
+            "spilled_to_disk": true,
+            "sys_ram_usage_percent": 2.7,
+            "disk_read_mb": 0.0,
+            "disk_write_mb": 0.7
+        }
+    ],
+    "q6_inactive_customers": [
+        {
+            "iteration": 1,
+            "status": "success",
+            "start_timestamp_utc": "2026-08-13 17:46:36",
+            "end_timestamp_utc": "2026-08-13 18:31:30",
+            "latency_seconds": 2693.8289,
+            "spilled_to_disk": true,
+            "sys_ram_usage_percent": 3.0,
+            "disk_read_mb": 38.66,
+            "disk_write_mb": 83.21
+        },
+        {
+            "iteration": 2,
+            "status": "success",
+            "start_timestamp_utc": "2026-08-13 18:31:30",
+            "end_timestamp_utc": "2026-08-13 19:12:48",
+            "latency_seconds": 2477.4293,
+            "spilled_to_disk": true,
+            "sys_ram_usage_percent": 3.0,
+            "disk_read_mb": 0.0,
+            "disk_write_mb": 4.03
+        },
+        {
+            "iteration": 3,
+            "status": "success",
+            "start_timestamp_utc": "2026-08-13 19:12:48",
+            "end_timestamp_utc": "2026-08-13 19:54:21",
+            "latency_seconds": 2493.5625,
+            "spilled_to_disk": true,
+            "sys_ram_usage_percent": 2.9,
+            "disk_read_mb": 0.0,
+            "disk_write_mb": 3.61
+        }
+    ]
+}
