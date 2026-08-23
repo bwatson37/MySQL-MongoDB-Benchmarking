@@ -1,0 +1,212 @@
+{
+    "q1_top_cities": [
+        {
+            "iteration": 1,
+            "status": "success",
+            "start_timestamp_utc": "2026-08-16 14:09:35",
+            "end_timestamp_utc": "2026-08-16 14:18:54",
+            "latency_seconds": 559.6372,
+            "tmp_disk_tables_created": 0,
+            "sys_ram_usage_percent": 2.5,
+            "disk_read_mb": 0.0,
+            "disk_write_mb": 1.37
+        },
+        {
+            "iteration": 2,
+            "status": "success",
+            "start_timestamp_utc": "2026-08-16 14:18:54",
+            "end_timestamp_utc": "2026-08-16 14:29:31",
+            "latency_seconds": 636.8338,
+            "tmp_disk_tables_created": 0,
+            "sys_ram_usage_percent": 2.5,
+            "disk_read_mb": 0.0,
+            "disk_write_mb": 1.32
+        },
+        {
+            "iteration": 3,
+            "status": "success",
+            "start_timestamp_utc": "2026-08-16 14:29:31",
+            "end_timestamp_utc": "2026-08-16 14:40:11",
+            "latency_seconds": 639.7308,
+            "tmp_disk_tables_created": 0,
+            "sys_ram_usage_percent": 2.5,
+            "disk_read_mb": 0.0,
+            "disk_write_mb": 1.56
+        }
+    ],
+    "q2_avg_order_city": [
+        {
+            "iteration": 1,
+            "status": "success",
+            "start_timestamp_utc": "2026-08-16 14:40:11",
+            "end_timestamp_utc": "2026-08-16 14:45:52",
+            "latency_seconds": 340.5131,
+            "tmp_disk_tables_created": 0,
+            "sys_ram_usage_percent": 2.5,
+            "disk_read_mb": 0.0,
+            "disk_write_mb": 0.52
+        },
+        {
+            "iteration": 2,
+            "status": "success",
+            "start_timestamp_utc": "2026-08-16 14:45:52",
+            "end_timestamp_utc": "2026-08-16 14:51:31",
+            "latency_seconds": 339.3994,
+            "tmp_disk_tables_created": 0,
+            "sys_ram_usage_percent": 2.5,
+            "disk_read_mb": 0.0,
+            "disk_write_mb": 1.06
+        },
+        {
+            "iteration": 3,
+            "status": "success",
+            "start_timestamp_utc": "2026-08-16 14:51:31",
+            "end_timestamp_utc": "2026-08-16 14:57:01",
+            "latency_seconds": 330.2634,
+            "tmp_disk_tables_created": 0,
+            "sys_ram_usage_percent": 2.5,
+            "disk_read_mb": 0.0,
+            "disk_write_mb": 0.21
+        }
+    ],
+    "q3_customer_spend_stats": [
+        {
+            "iteration": 1,
+            "status": "success",
+            "start_timestamp_utc": "2026-08-16 14:57:01",
+            "end_timestamp_utc": "2026-08-16 14:59:21",
+            "latency_seconds": 139.7144,
+            "tmp_disk_tables_created": 0,
+            "sys_ram_usage_percent": 2.5,
+            "disk_read_mb": 0.0,
+            "disk_write_mb": 0.52
+        },
+        {
+            "iteration": 2,
+            "status": "success",
+            "start_timestamp_utc": "2026-08-16 14:59:21",
+            "end_timestamp_utc": "2026-08-16 15:01:15",
+            "latency_seconds": 114.4066,
+            "tmp_disk_tables_created": 0,
+            "sys_ram_usage_percent": 2.5,
+            "disk_read_mb": 0.0,
+            "disk_write_mb": 0.21
+        },
+        {
+            "iteration": 3,
+            "status": "success",
+            "start_timestamp_utc": "2026-08-16 15:01:15",
+            "end_timestamp_utc": "2026-08-16 15:03:11",
+            "latency_seconds": 115.6601,
+            "tmp_disk_tables_created": 0,
+            "sys_ram_usage_percent": 2.5,
+            "disk_read_mb": 0.0,
+            "disk_write_mb": 0.07
+        }
+    ],
+    "q4_category_revenue": [
+        {
+            "iteration": 1,
+            "status": "success",
+            "start_timestamp_utc": "2026-08-16 15:03:11",
+            "end_timestamp_utc": "2026-08-16 15:05:06",
+            "latency_seconds": 114.6421,
+            "tmp_disk_tables_created": 1,
+            "sys_ram_usage_percent": 2.5,
+            "disk_read_mb": 0.0,
+            "disk_write_mb": 0.07
+        },
+        {
+            "iteration": 2,
+            "status": "success",
+            "start_timestamp_utc": "2026-08-16 15:05:06",
+            "end_timestamp_utc": "2026-08-16 15:08:43",
+            "latency_seconds": 217.372,
+            "tmp_disk_tables_created": 1,
+            "sys_ram_usage_percent": 2.5,
+            "disk_read_mb": 0.0,
+            "disk_write_mb": 0.05
+        },
+        {
+            "iteration": 3,
+            "status": "success",
+            "start_timestamp_utc": "2026-08-16 15:08:43",
+            "end_timestamp_utc": "2026-08-16 15:12:40",
+            "latency_seconds": 236.861,
+            "tmp_disk_tables_created": 1,
+            "sys_ram_usage_percent": 2.5,
+            "disk_read_mb": 0.0,
+            "disk_write_mb": 0.73
+        }
+    ],
+    "q5_top_customers": [
+        {
+            "iteration": 1,
+            "status": "success",
+            "start_timestamp_utc": "2026-08-16 15:12:40",
+            "end_timestamp_utc": "2026-08-16 15:22:20",
+            "latency_seconds": 580.4771,
+            "tmp_disk_tables_created": 1,
+            "sys_ram_usage_percent": 2.5,
+            "disk_read_mb": 0.0,
+            "disk_write_mb": 0.94
+        },
+        {
+            "iteration": 2,
+            "status": "success",
+            "start_timestamp_utc": "2026-08-16 15:22:20",
+            "end_timestamp_utc": "2026-08-16 15:31:48",
+            "latency_seconds": 567.4505,
+            "tmp_disk_tables_created": 1,
+            "sys_ram_usage_percent": 2.5,
+            "disk_read_mb": 0.0,
+            "disk_write_mb": 0.86
+        },
+        {
+            "iteration": 3,
+            "status": "success",
+            "start_timestamp_utc": "2026-08-16 15:31:48",
+            "end_timestamp_utc": "2026-08-16 15:41:02",
+            "latency_seconds": 553.7793,
+            "tmp_disk_tables_created": 1,
+            "sys_ram_usage_percent": 2.5,
+            "disk_read_mb": 0.0,
+            "disk_write_mb": 2.02
+        }
+    ],
+    "q6_inactive_customers": [
+        {
+            "iteration": 1,
+            "status": "success",
+            "start_timestamp_utc": "2026-08-16 15:41:02",
+            "end_timestamp_utc": "2026-08-16 15:48:44",
+            "latency_seconds": 462.2518,
+            "tmp_disk_tables_created": 0,
+            "sys_ram_usage_percent": 2.4,
+            "disk_read_mb": 0.0,
+            "disk_write_mb": 2.21
+        },
+        {
+            "iteration": 2,
+            "status": "success",
+            "start_timestamp_utc": "2026-08-16 15:48:44",
+            "end_timestamp_utc": "2026-08-16 15:56:16",
+            "latency_seconds": 451.7436,
+            "tmp_disk_tables_created": 0,
+            "sys_ram_usage_percent": 2.5,
+            "disk_read_mb": 0.0,
+            "disk_write_mb": 2.72
+        },
+        {
+            "iteration": 3,
+            "status": "success",
+            "start_timestamp_utc": "2026-08-16 15:56:16",
+            "end_timestamp_utc": "2026-08-16 16:03:59",
+            "latency_seconds": 463.7648,
+            "tmp_disk_tables_created": 0,
+            "sys_ram_usage_percent": 2.5,
+            "disk_read_mb": 0.0,
+            "disk_write_mb": 2.6
+        }
+    ]
+}
